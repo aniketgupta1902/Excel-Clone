@@ -6,3 +6,4 @@
 • Also used Graph Data Structure to implement excel Formula
 
 • Feel free to contribute to this project!
+This version of excel clone has limited functionalities it can create a limited size grid also there are limited formatting functionalities.
