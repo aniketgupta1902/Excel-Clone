@@ -4,3 +4,5 @@
 •	Implemented formatting and alignment with different css properties. 
 
 • Also used Graph Data Structure to implement excel Formula
+
+• Feel free to contribute to this project!
